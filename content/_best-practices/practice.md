@@ -1,6 +1,6 @@
 ---
 title: A Best Practice
-author: author
+author: manatok
 ---
 Content...
 
