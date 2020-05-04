@@ -1,5 +1,5 @@
 ---
 title: A Prerequisite
-author: author
+author: manatok
 ---
 Content...
